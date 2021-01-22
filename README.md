@@ -2,6 +2,7 @@
 
 Used the following sites as reference to develop the ldap auth package
 
+[ldap3 docs](https://ldap3.readthedocs.io/en/latest/ssltls.html)
 [flask-ldapconn](https://github.com/rroemhild/flask-ldapconn)
 [some github repo](https://github.com/haouach/smsgateway/blob/master/wis/wis.py)
 
